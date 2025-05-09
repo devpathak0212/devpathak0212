@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a college student<br>I'm an AI/ML Engineer<br>I'm a MERN Stack Developer<br>I'm working on projects related to Machine Learning<br>I'm also a Python Programmer
+I'm an AI/ML Engineer<br>I'm a MERN Stack Developer<br>I'm working on projects related to Machine Learning<br>I'm also a Python Programmer
 
 
 ## 🌐 Socials:
